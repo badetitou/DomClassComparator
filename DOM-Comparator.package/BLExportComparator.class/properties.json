@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "HTMLArchitectureComparator",
+	"category" : "DOM-Comparator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"relations"
+	],
+	"name" : "BLExportComparator",
+	"type" : "normal"
+}

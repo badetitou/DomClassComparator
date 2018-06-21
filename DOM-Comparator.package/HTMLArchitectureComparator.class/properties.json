@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DOM-Comparator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parser",
+		"right",
+		"left"
+	],
+	"name" : "HTMLArchitectureComparator",
+	"type" : "normal"
+}

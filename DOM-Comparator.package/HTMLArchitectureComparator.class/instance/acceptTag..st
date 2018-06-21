@@ -1,0 +1,3 @@
+private 
+acceptTag: aTag
+	^ true
