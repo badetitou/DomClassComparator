@@ -1,3 +1,4 @@
 acccessing
 classRelation
-	^ { #BLFieldSetPanel -> #'ID-BLFieldset' } asDictionary
+	^ {(#BLFieldSetPanel -> #'ID-BLFieldset').
+	(#BLLinkLabel -> #'ID-BLLinkLabel')} asDictionary

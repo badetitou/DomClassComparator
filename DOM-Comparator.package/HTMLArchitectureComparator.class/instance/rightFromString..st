@@ -1,3 +1,5 @@
 accesing
 rightFromString: aString
-	right := parser parseString: aString
+	right := parser
+		parseString:
+			aString.

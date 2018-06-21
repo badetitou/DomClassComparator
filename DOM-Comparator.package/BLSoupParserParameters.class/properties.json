@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SoupParserParameters",
+	"category" : "DOM-Comparator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ForBl"
+	],
+	"instvars" : [ ],
+	"name" : "BLSoupParserParameters",
+	"type" : "normal"
+}
